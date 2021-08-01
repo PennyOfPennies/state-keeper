@@ -1,3 +1,3 @@
-# Terraform State Keeper
+# state-keeper
 
-A project to configure a backend for storing terraform state.
+Configures a backend for storing terraform state.
